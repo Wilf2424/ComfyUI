@@ -1,0 +1,10 @@
+** ComfyUI startup time: 2024-04-14 04:17:17.946425
+[2024-04-14 04:17] ** Platform: Windows
+[2024-04-14 04:17] ** Python version: 3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)]
+[2024-04-14 04:17] ** Python executable: C:\ProgramData\anaconda3\python.exe
+[2024-04-14 04:17] ** Log path: C:\Neishon\AI\ComfyUI_windows_portable\ComfyUI\comfyui.log
+[2024-04-14 04:17] 
+Prestartup times for custom nodes:
+[2024-04-14 04:17]    0.3 seconds: C:\Neishon\AI\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager
+[2024-04-14 04:17] 
+Traceback (most recent call last):

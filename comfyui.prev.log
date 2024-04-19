@@ -1,0 +1,15 @@
+** ComfyUI startup time: 2024-04-13 22:58:26.579205
+[2024-04-13 22:58] ** Platform: Windows
+[2024-04-13 22:58] ** Python version: 3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)]
+[2024-04-13 22:58] ** Python executable: C:\ProgramData\anaconda3\python.exe
+[2024-04-13 22:58] ** Log path: C:\Neishon\AI\ComfyUI_windows_portable\ComfyUI\comfyui.log
+[2024-04-13 22:58] 
+Prestartup times for custom nodes:
+[2024-04-13 22:58]    0.4 seconds: C:\Neishon\AI\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager
+[2024-04-13 22:58] 
+Traceback (most recent call last):
+[2024-04-13 22:58]   File "C:\Neishon\AI\ComfyUI_windows_portable\ComfyUI\main.py", line 73, in <module>
+[2024-04-13 22:58]     import comfy.utils
+[2024-04-13 22:58]   File "C:\Neishon\AI\ComfyUI_windows_portable\ComfyUI\comfy\utils.py", line 5, in <module>
+[2024-04-13 22:58]     import safetensors.torch
+[2024-04-13 22:58] ModuleNotFoundError: No module named 'safetensors'
